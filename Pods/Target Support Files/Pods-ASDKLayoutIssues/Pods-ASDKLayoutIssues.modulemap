@@ -1,0 +1,6 @@
+framework module Pods_ASDKLayoutIssues {
+  umbrella header "Pods-ASDKLayoutIssues-umbrella.h"
+
+  export *
+  module * { export * }
+}
